@@ -1,0 +1,12 @@
+[
+    {
+        "modid": "aoa3portaldisable",
+        "name": "AoA3 Portal Disable",
+        "description": "Disable AoA3 Portal Activation.",
+        "version": "1.12.2-1.0.0",
+        "mcversion": "1.12.2",
+        "authorList": ["coutcincerrclog"],
+        "dependencies": [],
+        "credits": "SpacialRend who inspired me to make this"
+    }
+]
